@@ -78,8 +78,8 @@ Luego ingresar a:
 
 ## 👥 Integrantes encargados de desarrollar la App
 
-* 👨 Juan Francisco Barlett
-* 👨 Enzo Ríos
+* 👨‍💻 **Juan Francisco Barlett**  
+* 👨‍💻 **Enzo Ríos**
 
 ---
 
