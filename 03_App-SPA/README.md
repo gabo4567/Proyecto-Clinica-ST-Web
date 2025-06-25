@@ -77,7 +77,7 @@ npm run dev
 
 ---
 
-## 👥 Integrantes del grupo encargados de desarrollar la App
+## 👥 Integrante del grupo encargado de desarrollar la App
 
 * 👨‍💻 **Leonel Fernández**
 
