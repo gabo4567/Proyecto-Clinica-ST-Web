@@ -85,10 +85,10 @@ Una vez iniciado, podés acceder a la documentación interactiva de la API:
 
 ## 👥 Integrantes del grupo
 
-* 👨 Juan Francisco Barlett
-* 👨 Leonel Fernández
-* 👨 Enzo Ríos
-* 👨 Juan Gabriel Pared
+- 👨‍💻 **Juan Francisco Barlett**  
+- 👨‍💻 **Leonel Fernández**  
+- 👨‍💻 **Enzo Ríos**  
+- 👨‍💻 **Juan Gabriel Pared**
 
 ---
 
