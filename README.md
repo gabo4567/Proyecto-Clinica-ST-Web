@@ -39,11 +39,12 @@ Cada carpeta incluye un README propio con instrucciones detalladas para su insta
 
 ---
 
-## Colaboradores
+## 👥 Integrantes del Proyecto
 
-- Enzo Rios y Juan Francisco Barlett: Aplicación web ASP.NET MVC (Razor Pages)  
-- Leonel Fernandez: SPA con framework JS moderno  
-- Juan Gabriel Pared: Desarrollo de la API RESTful y coordinación general. Desarrollo de la aplicación mobile con Kotlin en Android Studio.
+- 👨‍💻 **Enzo Ríos** – Aplicación web ASP.NET MVC (Razor Pages)  
+- 👨‍💻 **Juan Francisco Barlett** – Aplicación web ASP.NET MVC (Razor Pages)  
+- 👨‍💻 **Leonel Fernández** – SPA con framework JavaScript moderno  
+- 👨‍💻 **Juan Gabriel Pared** – Desarrollo de la API RESTful (.NET), coordinación general y aplicación mobile en Kotlin (Android Studio)
 
 ---
 
