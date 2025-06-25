@@ -79,7 +79,7 @@ npm run dev
 
 ## 👥 Integrantes del grupo encargados de desarrollar la App
 
-* 👨 Leonel Fernández
+* 👨‍💻 **Leonel Fernández**
 
 ---
 
@@ -88,9 +88,4 @@ npm run dev
 Este proyecto es parte de un trabajo práctico integrador académico.
 Todos los derechos reservados a sus autores.
 
-```
-
----
-
-¿Querés que ahora avancemos con el README para `03_API-RESTful/` corregido y basado en .NET como corresponde, o ya lo tenés resuelto?
 ```
