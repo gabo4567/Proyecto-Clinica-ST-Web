@@ -60,9 +60,9 @@ La base de datos contiene las siguientes tablas principales:
 
 ---
 
-## 👥 Integrantes del grupo encargados de desarrollar la base de datos
+## 👥 Integrante del grupo encargado de desarrollar la base de datos
 
-- 👨 Juan Gabriel Pared
+- 👨‍💻 **Juan Gabriel Pared**
 
 ---
 
