@@ -43,10 +43,10 @@ Cada carpeta incluye un **README específico** con instrucciones detalladas para
 
 ## 👥 Integrantes del Proyecto
 
-* 👨‍💻 **Enzo Ríos** – Aplicación web **ASP.NET MVC** (Razor Pages)
-* 👨‍💻 **Juan Francisco Barlett** – Aplicación web **ASP.NET MVC** (Razor Pages)
-* 👨‍💻 **Leonel Fernández** – SPA con framework **JavaScript moderno**
-* 👨‍💻 **Juan Gabriel Pared** – Desarrollo de la **API RESTful (.NET)**, coordinación general y aplicación **mobile** en **Kotlin (Android Studio)**
+* 👨‍💻 **Enzo Ríos**
+* 👨‍💻 **Juan Francisco Barlett**
+* 👨‍💻 **Leonel Fernández**
+* 👨‍💻 **Juan Gabriel Pared**
 
 ---
 
