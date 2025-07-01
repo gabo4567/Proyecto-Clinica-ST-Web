@@ -1,0 +1,22 @@
+﻿@page
+@model V2Razor.Pages.Pacientes.BorrarModel
+@{
+	ViewData["Title"] = "Borrar Paciente";
+}
+
+<h1>Borrar Paciente</h1>
+
+<p>¿Estas seguro de eliminar este Paciente?</p>
+
+<div class="card mb-3">
+	<div class="card-body">
+		<h5 class="card-tittle">Nombre: @Model.Paciente.Nombre</h5>
+	</div>
+
+</div>
+
+<form method="POST">
+	<input type="hidden" asp-for="Paciente.IdPaciente" />
+	<button type="submit" class="btn btn-danger">Borrar</button>
+	<a asp-page="Index" class="btn btn-secondary">Cancelar</a>
+</form>

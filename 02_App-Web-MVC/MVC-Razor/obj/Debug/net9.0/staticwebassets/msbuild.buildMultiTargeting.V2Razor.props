@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\V2Razor.props" />
+</Project>

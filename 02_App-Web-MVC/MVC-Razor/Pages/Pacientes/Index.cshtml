@@ -1,0 +1,51 @@
+﻿@page
+@model V2Razor.Pages.Pacientes.IndexModel
+@{
+    ViewData["Title"] = "Lista de Pacientes";
+}
+
+<h1>Lista de Pacientes</h1>
+<a class="btn btn-primary mb-3" asp-page="Crear">Agregar Nuevo Paciente</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>DNI</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Email</th>
+            <th>Teléfono</th>
+            <th>Dirección</th>
+            <th>Género</th>
+            <th>Fecha Nacimiento</th>
+            <th>Edad</th>
+            <th>Obra Social</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var paciente in Model.Pacientes)
+        {
+            <tr>
+                <td>@paciente.IdPaciente</td>
+                <td>@paciente.Dni</td>
+                <td>@paciente.Nombre</td>
+                <td>@paciente.Apellido</td>
+                <td>@paciente.Email</td>
+                <td>@paciente.Telefono</td>
+                <td>@paciente.Direccion</td>
+                <td>@paciente.Genero</td>
+                <td>@paciente.FechaNacimiento.ToString("dd/MM/yyyy")</td>
+                <td>@paciente.Edad</td>
+                <td>@paciente.ObraSocial</td>
+                <td>@paciente.IdEstadoNavigation?.Nombre</td> <!-- Suponiendo que Estado tiene Nombre -->
+                <td>
+                    <a class="btn btn-secondary btn-sm" asp-page="Editar" asp-route-id="@paciente.IdPaciente">Editar</a>
+                    <a class="btn btn-danger btn-sm" asp-page="Borrar" asp-route-id="@paciente.IdPaciente">Eliminar</a>
+                    <a class="btn btn-info btn-sm" asp-page="Detalle" asp-route-id="@paciente.IdPaciente">Detalles</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
