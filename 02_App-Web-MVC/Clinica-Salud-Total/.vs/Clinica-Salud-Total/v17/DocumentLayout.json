@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS2022\\Clinica-Salud-Total\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|c:\\vs2022\\clinica-salud-total\\pages\\pacientes\\detalles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|solutionrelative:pages\\pacientes\\detalles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|c:\\vs2022\\clinica-salud-total\\pages\\pacientes\\borrar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|solutionrelative:pages\\pacientes\\borrar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|c:\\vs2022\\clinica-salud-total\\pages\\pacientes\\crear.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|solutionrelative:pages\\pacientes\\crear.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|c:\\vs2022\\clinica-salud-total\\pages\\turnos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|solutionrelative:pages\\turnos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|c:\\vs2022\\clinica-salud-total\\pages\\turnos\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|solutionrelative:pages\\turnos\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|c:\\vs2022\\clinica-salud-total\\pages\\turnos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|solutionrelative:pages\\turnos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|c:\\vs2022\\clinica-salud-total\\pages\\turnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C5E225F-FF3F-47FE-98CB-0FC430FEA71D}|Clinica-Salud-Total.csproj|solutionrelative:pages\\turnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detalles.cshtml.cs",
+              "DocumentMoniker": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Pacientes\\Detalles.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pacientes\\Detalles.cshtml.cs",
+              "ToolTip": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Pacientes\\Detalles.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pacientes\\Detalles.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:07:42.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Borrar.cshtml.cs",
+              "DocumentMoniker": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Pacientes\\Borrar.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pacientes\\Borrar.cshtml.cs",
+              "ToolTip": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Pacientes\\Borrar.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pacientes\\Borrar.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:04:42.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml.cs",
+              "DocumentMoniker": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Pacientes\\Crear.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pacientes\\Crear.cshtml.cs",
+              "ToolTip": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Pacientes\\Crear.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pacientes\\Crear.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:55:40.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml.cs",
+              "DocumentMoniker": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Turnos\\Editar.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Turnos\\Editar.cshtml.cs",
+              "ToolTip": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Turnos\\Editar.cshtml.cs",
+              "RelativeToolTip": "Pages\\Turnos\\Editar.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:51:44.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Turnos\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Turnos\\Editar.cshtml",
+              "ToolTip": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Turnos\\Editar.cshtml",
+              "RelativeToolTip": "Pages\\Turnos\\Editar.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T17:51:38.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Turnos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Turnos\\Index.cshtml.cs",
+              "ToolTip": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Turnos\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Turnos\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:12:44.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Turnos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Turnos\\Index.cshtml",
+              "ToolTip": "C:\\VS2022\\Clinica-Salud-Total\\Pages\\Turnos\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Turnos\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T17:12:25.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

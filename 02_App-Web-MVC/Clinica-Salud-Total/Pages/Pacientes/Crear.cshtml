@@ -1,0 +1,87 @@
+﻿@page
+@model Clinica_Salud_Total.Pages.Pacientes.CrearModel
+@{
+	ViewData["Title"] = "Crear Paciente";
+}
+
+<h1>Crear Paciente</h1>
+
+<form method="POST">
+	<div asp-validation-summary="All" class="text-danger"></div>
+	<div class="mb-3">
+		<label asp-for="Paciente.Dni" class="form-label"></label>
+		<input asp-for="Paciente.Dni" class="form-control" />
+		<span asp-validation-for="Paciente.Dni" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Paciente.Nombre" class="form-label"></label>
+		<input asp-for="Paciente.Nombre" class="form-control" />
+		<span asp-validation-for="Paciente.Nombre" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Paciente.Apellido" class="form-label"></label>
+		<input asp-for="Paciente.Apellido" class="form-control" />
+		<span asp-validation-for="Paciente.Apellido" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Paciente.FechaNacimiento" class="form-label"></label>
+		<input asp-for="Paciente.FechaNacimiento" class="form-control" type="date" />
+		<span asp-validation-for="Paciente.FechaNacimiento" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Paciente.Email" class="form-label"></label>
+		<input asp-for="Paciente.Email" class="form-control" />
+		<span asp-validation-for="Paciente.Email" class="text-danger"></span>	
+		</div>
+
+	<div class="mb-3">
+		<label asp-for="Paciente.Telefono" class="form-label"></label>
+		<input asp-for="Paciente.Telefono" class="form-control" />
+		<span asp-validation-for="Paciente.Telefono" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Paciente.Direccion" class="form-label"></label>
+		<input asp-for="Paciente.Direccion" class="form-control" />
+		<span asp-validation-for="Paciente.Direccion" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Paciente.Genero" class="form-label"></label>
+		<input asp-for="Paciente.Genero" class="form-control" />
+		<span asp-validation-for="Paciente.Genero" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Paciente.Edad" class="form-label"></label>
+		<input asp-for="Paciente.Edad" class="form-control" type="number" />
+		<span asp-validation-for="Paciente.Edad" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Paciente.ObraSocial" class="form-label"></label>		
+		<input asp-for="Paciente.ObraSocial" class="form-control" />
+		<span asp-validation-for="Paciente.ObraSocial" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Paciente.IdEstado" class="form-label"></label>
+		<select asp-for="Paciente.IdEstado" class="form-select">
+			<option value="">-- Seleccione un estado --</option>
+			@foreach (var estado in Model.Estados)
+			{
+				<option value="@estado.IdEstado">@estado.Nombre</option>
+			}
+		</select>
+		<span asp-validation-for="Paciente.IdEstado" class="text-danger"></span>
+	</div>
+
+
+	<button type="submit" class="btn btn-primary">Crear Paciente</button>
+	<a asp-page="Index" class="btn btn-secondary">Cancelar</a>
+
+	</form>

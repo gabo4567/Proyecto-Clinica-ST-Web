@@ -1,0 +1,104 @@
+@page
+@model Clinica_Salud_Total.Pages.Profesionales.EditarModel
+@{
+	ViewData["Title"] = "Editar Profesional";
+}
+
+<h1>Editar Profesional</h1>
+
+<form method="POST">
+	<input type="hidden" asp-for="Profesional.IdProfesional"/>
+
+	<div asp-validation-summary="All" class="text-danger"></div>
+	<div class="mb-3">
+		<label asp-for="Profesional.Dni" class="form-label"></label>
+		<input asp-for="Profesional.Dni" class="form-control" />
+		<span asp-validation-for="Profesional.Dni" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.Nombre" class="form-label"></label>
+		<input asp-for="Profesional.Nombre" class="form-control" />
+		<span asp-validation-for="Profesional.Nombre" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.Apellido" class="form-label"></label>
+		<input asp-for="Profesional.Apellido" class="form-control" />
+		<span asp-validation-for="Profesional.Apellido" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.FechaNacimiento" class="form-label"></label>
+		<input asp-for="Profesional.FechaNacimiento" class="form-control" type="date" />
+		<span asp-validation-for="Profesional.FechaNacimiento" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.Email" class="form-label"></label>
+		<input asp-for="Profesional.Email" class="form-control" />
+		<span asp-validation-for="Profesional.Email" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.Telefono" class="form-label"></label>
+		<input asp-for="Profesional.Telefono" class="form-control" />
+		<span asp-validation-for="Profesional.Telefono" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.Direccion" class="form-label"></label>
+		<input asp-for="Profesional.Direccion" class="form-control" />
+		<span asp-validation-for="Profesional.Direccion" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.Genero" class="form-label"></label>
+		<select asp-for="Profesional.Genero" class="form-select">
+			<option value="">-- Seleccione género --</option>
+			<option value="Masculino">Masculino</option>
+			<option value="Femenino">Femenino</option>
+			<option value="Otro">Otro</option>
+		</select>
+		<span asp-validation-for="Profesional.Genero" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.Edad" class="form-label"></label>
+		<input asp-for="Profesional.Edad" class="form-control" type="number" />
+		<span asp-validation-for="Profesional.Edad" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.Matricula" class="form-label"></label>
+		<input asp-for="Profesional.Matricula" class="form-control" />
+		<span asp-validation-for="Profesional.Matricula" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.IdEspecialidad" class="form-label"></label>
+		<select asp-for="Profesional.IdEspecialidad" class="form-select">
+			<option value="">-- Seleccione una especialidad --</option>
+			@foreach (var especialidad in Model.Especialidades)
+			{
+				<option value="@especialidad.IdEspecialidad">@especialidad.Nombre</option>
+			}
+		</select>
+		<span asp-validation-for="Profesional.IdEspecialidad" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Profesional.IdEstado" class="form-label"></label>
+		<select asp-for="Profesional.IdEstado" class="form-select">
+			<option value="">-- Seleccione un estado --</option>
+			@foreach (var estado in Model.Estados)
+			{
+				<option value="@estado.IdEstado">@estado.Nombre</option>
+			}
+		</select>
+		<span asp-validation-for="Profesional.IdEstado" class="text-danger"></span>
+	</div>
+
+	<button type="submit" class="btn btn-primary">Guardar Cambios</button>
+	<a asp-page="Index" class="btn btn-secondary">Cancelar</a>
+</form> 

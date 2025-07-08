@@ -1,0 +1,23 @@
+@page
+@model Clinica_Salud_Total.Pages.Profesionales.BorrarModel
+@{
+	ViewData["Title"] = "Borrar Profesional";
+}
+
+<h1>Borrar Profesional</h1>
+
+<p>¿Estas seguro de eliminar este Profesional?</p>
+
+<div class="card mb-3">
+	<div class="card-body">
+		<h5 class="card-tittle">Nombre: @Model.Profesional.Nombre @Model.Profesional.Apellido</h5>
+		<p class="card-text">Matrícula: @Model.Profesional.Matricula</p>
+		<p class="card-text">Especialidad: @Model.Profesional.IdEspecialidadNavigation?.Nombre</p>
+	</div>
+</div>
+
+<form method="POST">
+	<input type="hidden" asp-for="Profesional.IdProfesional" />
+	<button type="submit" class="btn btn-danger">Borrar</button>
+	<a asp-page="Index" class="btn btn-secondary">Cancelar</a>
+</form> 
