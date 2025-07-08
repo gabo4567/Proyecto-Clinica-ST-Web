@@ -1,91 +1,70 @@
-# ⚛️ Aplicación SPA - Clínica Salud Total
+# Getting Started with Create React App
 
-Este módulo corresponde a la **Aplicación Web SPA (Single Page Application)** del sistema **Clínica Salud Total**, desarrollada con tecnologías modernas del ecosistema frontend. Esta interfaz está pensada para pacientes o usuarios que desean realizar operaciones de forma rápida, fluida y responsiva desde el navegador.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## 🛠️ Tecnologías utilizadas
+In the project directory, you can run:
 
-- ⚛️ React 18
-- 📦 Vite
-- 📡 Axios
-- 🌐 React Router
-- 🧠 React Context
-- 💅 TailwindCSS (u otro framework de diseño)
-- 🔐 JWT (para autenticación)
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 🧩 Funcionalidades implementadas
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-| Módulo                | Descripción                                                                |
-|------------------------|----------------------------------------------------------------------------|
-| 🔐 Login               | Inicio de sesión mediante usuario y contraseña (token JWT)                 |
-| 🏠 Home                | Pantalla de inicio con navegación hacia secciones principales              |
-| 📅 Turnos              | Listado de turnos del paciente, con paginación y búsqueda                  |
-| 👁️ Detalle de turno    | Vista individual con toda la información del turno                         |
-| ➕ Crear/Editar turnos | Formulario dinámico para crear o modificar turnos (con dropdowns)          |
-| 📸 Código QR           | Visualización del QR generado desde la API para validar el turno           |
-| 📥 Guardado del token  | Almacenamiento en `localStorage` para mantener la sesión activa            |
-| ⚠️ Mensajes y errores  | Manejo amigable de errores y respuestas del servidor                       |
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## 📁 Estructura general del proyecto
+### `npm run build`
 
-```
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-📦 /04\_App-SPA
-├── public/
-├── src/
-│   ├── api/              # Conexión a la API (axios, interceptores)
-│   ├── components/       # Componentes reutilizables (Botón, Loader, etc.)
-│   ├── context/          # AuthContext o contextos globales
-│   ├── pages/            # Páginas principales (Turnos, Login, Home, etc.)
-│   ├── routes/           # Definición de rutas con React Router
-│   ├── styles/           # Archivos CSS o Tailwind config
-│   └── main.jsx
-├── .env
-├── index.html
-└── package.json
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-````
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
----
+### `npm run eject`
 
-## 🧪 Cómo correr la SPA localmente
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-1. Instalar dependencias:
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-```bash
-npm install
-````
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-2. Crear archivo `.env` con la URL base de la API:
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-```env
-VITE_API_URL=http://localhost:8080/api
-```
+## Learn More
 
-3. Iniciar el servidor de desarrollo:
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```bash
-npm run dev
-```
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-📍 La app se abrirá en `http://localhost:5173`
+### Code Splitting
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## 👥 Integrante del grupo encargado de desarrollar la App
+### Analyzing the Bundle Size
 
-* 👨‍💻 **Leonel Fernández**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
----
+### Making a Progressive Web App
 
-## 📄 Licencia
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Este proyecto es parte de un trabajo práctico integrador académico.
-Todos los derechos reservados a sus autores.
+### Advanced Configuration
 
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
