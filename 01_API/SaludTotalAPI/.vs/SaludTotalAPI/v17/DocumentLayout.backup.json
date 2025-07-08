@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\controllers\\qrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\controllers\\qrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\dtos\\turnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\dtos\\turnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\dtos\\profesionalminidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\dtos\\profesionalminidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\dtos\\profesionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\dtos\\profesionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\dtos\\usuarios\\registrousuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\dtos\\usuarios\\registrousuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|c:\\users\\leeoo\\source\\repos\\saludtotalapi\\saludtotalapi\\saludtotalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C92A01AE-01B3-47BD-A0DB-207FC3EDEC9B}|SaludTotalAPI\\SaludTotalAPI.csproj|solutionrelative:saludtotalapi\\saludtotalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "SaludTotalAPI\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:32:40.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Models\\Turno.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Models\\Turno.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Models\\Turno.cs",
+              "RelativeToolTip": "SaludTotalAPI\\Models\\Turno.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:17:28.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "SaludTotalAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:00:41.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Services\\JwtService.cs",
+              "RelativeToolTip": "SaludTotalAPI\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:00:40.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\appsettings.json",
+              "RelativeToolTip": "SaludTotalAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T16:54:03.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Program.cs",
+              "RelativeToolTip": "SaludTotalAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:33:44.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QrController.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Controllers\\QrController.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Controllers\\QrController.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Controllers\\QrController.cs",
+              "RelativeToolTip": "SaludTotalAPI\\Controllers\\QrController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwD4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:51:16.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SaludTotalAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T22:27:24.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TurnoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\DTOs\\TurnoDTO.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\DTOs\\TurnoDTO.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\DTOs\\TurnoDTO.cs",
+              "RelativeToolTip": "SaludTotalAPI\\DTOs\\TurnoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:17:05.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfesionalMiniDTO.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\DTOs\\ProfesionalMiniDTO.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\DTOs\\ProfesionalMiniDTO.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\DTOs\\ProfesionalMiniDTO.cs",
+              "RelativeToolTip": "SaludTotalAPI\\DTOs\\ProfesionalMiniDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T04:06:46.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfesionalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\DTOs\\ProfesionalDTO.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\DTOs\\ProfesionalDTO.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\DTOs\\ProfesionalDTO.cs",
+              "RelativeToolTip": "SaludTotalAPI\\DTOs\\ProfesionalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T04:06:42.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistroUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\DTOs\\Usuarios\\RegistroUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\DTOs\\Usuarios\\RegistroUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\DTOs\\Usuarios\\RegistroUsuarioDTO.cs",
+              "RelativeToolTip": "SaludTotalAPI\\DTOs\\Usuarios\\RegistroUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:11:04.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "SaludTotalAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:34:57.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "SaludTotalAPI\\Controllers\\TurnosController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:16:11.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "SaludTotalAPI\\Controllers\\PacientesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T03:22:35.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SaludTotalAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:13:39.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SaludTotalAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\SaludTotalAPI.csproj",
+              "RelativeDocumentMoniker": "SaludTotalAPI\\SaludTotalAPI.csproj",
+              "ToolTip": "C:\\Users\\leeoo\\source\\repos\\SaludTotalAPI\\SaludTotalAPI\\SaludTotalAPI.csproj",
+              "RelativeToolTip": "SaludTotalAPI\\SaludTotalAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T11:40:27.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
