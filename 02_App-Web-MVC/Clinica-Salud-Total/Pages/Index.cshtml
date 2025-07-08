@@ -1,0 +1,54 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Inicio - Clínica Salud Total";
+}
+
+<div class="text-center mb-5">
+    <h1 class="display-4">Clínica Salud Total</h1>
+    <p class="lead">Sistema de gestión de turnos médicos</p>
+</div>
+
+<div class="row justify-content-center">
+    <div class="col-md-4 mb-4">
+        <div class="card h-100 shadow-sm">
+            <div class="card-body text-center">
+                <i class="fas fa-calendar-alt fa-3x text-primary mb-3"></i>
+                <h5 class="card-title">Turnos</h5>
+                <p class="card-text">Gestiona los turnos médicos, agenda citas y administra horarios.</p>
+                <a href="/Turnos" class="btn btn-primary">Gestionar Turnos</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 mb-4">
+        <div class="card h-100 shadow-sm">
+            <div class="card-body text-center">
+                <i class="fas fa-users fa-3x text-success mb-3"></i>
+                <h5 class="card-title">Pacientes</h5>
+                <p class="card-text">Administra la información de pacientes y sus historiales médicos.</p>
+                <a href="/Pacientes" class="btn btn-success">Gestionar Pacientes</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 mb-4">
+        <div class="card h-100 shadow-sm">
+            <div class="card-body text-center">
+                <i class="fas fa-user-md fa-3x text-info mb-3"></i>
+                <h5 class="card-title">Profesionales</h5>
+                <p class="card-text">Gestiona el personal médico, especialidades y horarios disponibles.</p>
+                <a href="/Profesionales" class="btn btn-info">Gestionar Profesionales</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-5">
+    <div class="col-12">
+        <div class="alert alert-info" role="alert">
+            <h6 class="alert-heading">Bienvenido al Sistema</h6>
+            <p class="mb-0">Selecciona una de las opciones arriba para comenzar a gestionar la clínica.</p>
+        </div>
+    </div>
+</div>

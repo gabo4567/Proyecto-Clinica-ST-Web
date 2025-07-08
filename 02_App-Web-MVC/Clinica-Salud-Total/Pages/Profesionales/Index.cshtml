@@ -1,0 +1,92 @@
+﻿@page
+@model Clinica_Salud_Total.Pages.Profesionales.IndexModel
+@{
+    ViewData["Title"] = "Lista de Profesionales";
+}
+
+<h1>Lista de Profesionales</h1>
+<a class="btn btn-primary mb-3" asp-page="Crear">Agregar Nuevo Profesional</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>DNI</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Email</th>
+            <th>Teléfono</th>
+            <th>Dirección</th>
+            <th>Género</th>
+            <th>Fecha Nacimiento</th>
+            <th>Edad</th>
+            <th>Matrícula</th>
+            <th>Especialidad</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var profesional in Model.Profesionales)
+        {
+            <tr>
+                <td>@profesional.IdProfesional</td>
+                <td>@profesional.Dni</td>
+                <td>@profesional.Nombre</td>
+                <td>@profesional.Apellido</td>
+                <td>@profesional.Email</td>
+                <td>@profesional.Telefono</td>
+                <td>@profesional.Direccion</td>
+                <td>@profesional.Genero</td>
+                <td>@profesional.FechaNacimiento.ToString("dd/MM/yyyy")</td>
+                <td>@profesional.Edad</td>
+                <td>@profesional.Matricula</td>
+                <td>@profesional.IdEspecialidadNavigation?.Nombre</td>
+                <td>@profesional.IdEstadoNavigation?.Nombre</td>
+                <td>
+                    <a class="btn btn-secondary btn-sm" asp-page="Editar" asp-route-id="@profesional.IdProfesional">Editar</a>
+                    <a class="btn btn-danger btn-sm" asp-page="Borrar" asp-route-id="@profesional.IdProfesional">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<nav>
+    <ul class="pagination">
+        @if (Model.Profesionales.HasPreviousPage)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-route-pageIndex="@(Model.Profesionales.PageIndex - 1)">Anterior</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled"><span class="page-link">Anterior</span></li>
+        }
+
+        @for (int i = 1; i <= Model.Profesionales.TotalPages; i++)
+        {
+            if (i == Model.Profesionales.PageIndex)
+            {
+                <li class="page-item active"><span class="page-link">@i</span></li>
+            }
+            else
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-route-pageIndex="@i">@i</a>
+                </li>
+            }
+        }
+
+        @if (Model.Profesionales.HasNextPage)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-route-pageIndex="@(Model.Profesionales.PageIndex + 1)">Siguiente</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled"><span class="page-link">Siguiente</span></li>
+        }
+    </ul>
+</nav>

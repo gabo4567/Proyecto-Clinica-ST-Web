@@ -1,0 +1,63 @@
+﻿@page "{id:long}"
+@model Clinica_Salud_Total.Pages.Pacientes.DetallesModel
+
+@{
+    ViewData["Title"] = "Detalle del Paciente";
+}
+
+<h1>Detalle del Paciente</h1>
+
+<table class="table table-bordered w-auto">
+    <tbody>
+        <tr>
+            <th scope="row">ID</th>
+            <td>@Model.Paciente.IdPaciente</td>
+        </tr>
+        <tr>
+            <th scope="row">DNI</th>
+            <td>@Model.Paciente.Dni</td>
+        </tr>
+        <tr>
+            <th scope="row">Nombre</th>
+            <td>@Model.Paciente.Nombre</td>
+        </tr>
+        <tr>
+            <th scope="row">Apellido</th>
+            <td>@Model.Paciente.Apellido</td>
+        </tr>
+        <tr>
+            <th scope="row">Email</th>
+            <td>@Model.Paciente.Email</td>
+        </tr>
+        <tr>
+            <th scope="row">Teléfono</th>
+            <td>@Model.Paciente.Telefono</td>
+        </tr>
+        <tr>
+            <th scope="row">Dirección</th>
+            <td>@Model.Paciente.Direccion</td>
+        </tr>
+        <tr>
+            <th scope="row">Género</th>
+            <td>@Model.Paciente.Genero</td>
+        </tr>
+        <tr>
+            <th scope="row">Fecha de Nacimiento</th>
+            <td>@Model.Paciente.FechaNacimiento.ToString("dd/MM/yyyy")</td>
+        </tr>
+        <tr>
+            <th scope="row">Edad</th>
+            <td>@Model.Paciente.Edad</td>
+        </tr>
+        <tr>
+            <th scope="row">Obra Social</th>
+            <td>@Model.Paciente.ObraSocial</td>
+        </tr>
+        <tr>
+            <th scope="row">Estado</th>
+            <td>@Model.Paciente.IdEstadoNavigation?.Nombre</td>
+        </tr>
+    </tbody>
+</table>
+
+<a asp-page="Index" class="btn btn-secondary">Volver a la lista</a>
