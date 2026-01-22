@@ -45,7 +45,7 @@ Cada carpeta incluye un **README específico** con instrucciones detalladas para
 
 * 👨‍💻 **Enzo Ríos**
 * 👨‍💻 **Juan Francisco Barlett**
-* 👨‍💻 **Leonel Fernández**
+* 👨‍💻 **Leonel Fernandez**
 * 👨‍💻 **Juan Gabriel Pared**
 
 ---
